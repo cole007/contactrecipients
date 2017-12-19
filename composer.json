@@ -1,0 +1,14 @@
+{
+	"name": "/contactrecipients",
+	"description": "Route recipient based on subject",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "@cole007",
+			"homepage": "http://ournameismud.co.uk/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}

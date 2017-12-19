@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="100"
+   width="100"
+   id="svg2"
+   viewBox="0 0 100 100"
+   y="0px"
+   x="0px"
+   version="1.1">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <g
+     id="g4"
+     transform="translate(0,-952.3622)">
+    <path
+       id="path6"
+       overflow="visible"
+       display="inline"
+       visibility="visible"
+       d="m 50,961.36219 c -3.31371,0 -6,2.68629 -6,6 0,3.31371 2.68629,6 6,6 3.31371,0 6,-2.68629 6,-6 0,-3.31371 -2.68629,-6 -6,-6 z m 0,19 c -8.31,0 -15,3.0743 -15,8 l 0,7.99997 30,0 0,-7.99997 c 0,-4.9257 -6.69,-8 -15,-8 z m -0.21875,23.96881 c -0.98275,0.108 -1.80251,1.0428 -1.78125,2.0312 l 0,8.875 -9.03125,5.4062 c -1.00132,0.4819 -1.41916,1.8878 -0.84358,2.8384 0.57557,0.9506 2.015,1.2318 2.90608,0.5679 l 8.96875,-5.375 8.96875,5.375 c 0.89108,0.6639 2.33051,0.3827 2.90608,-0.5679 0.57558,-0.9506 0.15774,-2.3565 -0.84358,-2.8384 L 52,1015.2372 l 0,-8.875 c 0.0244,-1.1345 -1.09076,-2.1555 -2.21875,-2.0312 z M 23,1008.3622 c -3.31371,0 -6,2.6863 -6,6 0,3.3137 2.68629,6 6,6 3.31371,0 6,-2.6863 6,-6 0,-3.3137 -2.68629,-6 -6,-6 z m 54,0 c -3.31371,0 -6,2.6863 -6,6 0,3.3137 2.68629,6 6,6 3.31371,0 6,-2.6863 6,-6 0,-3.3137 -2.68629,-6 -6,-6 z m -54,19 c -8.31,0 -15,3.0743 -15,8 l 0,8 30,0 0,-8 c 0,-4.9257 -6.69,-8 -15,-8 z m 54,0 c -8.31,0 -15,3.0743 -15,8 l 0,8 30,0 0,-8 c 0,-4.9257 -6.69,-8 -15,-8 z"
+       style="color:#000000;text-indent:0;text-transform:none;direction:ltr;block-progression:tb;baseline-shift:baseline;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;marker:none;enable-background:accumulate" />
+  </g>
+</svg>
